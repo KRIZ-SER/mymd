@@ -1,28 +1,7 @@
 {
-"name": "Ammu",
-  "description": "Lightweight WhatsApp Bot",
+  "name": "mymd",
+  "description": "WhatsApp Bot Using Library Baileys Multi Device",
   "repository": "https://github.com/KRIZ-SER/mymd",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
-
-    "buildpacks": [
-
-        {
-
-            "url": "heroku/nodejs"
-
-        },
-
-        {
-
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-
-        },
-
-        {
-
-            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-
-        }
-
-    ]
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"]
 }
